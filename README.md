@@ -10,7 +10,7 @@ Everything runs locally in the browser. No account, no server, no data leaves th
 
 ## Live demo
 
-`[https://coryjburk.github.io/<REPO-NAME>/comp-planner.html](https://coryjburk.github.io/comp_calculator/)`
+'https://coryjburk.github.io/comp_calculator/'
 
 ---
 
