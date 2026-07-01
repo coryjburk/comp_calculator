@@ -1,5 +1,7 @@
 # Offer Compensation Planner
 
+**Full-Time MBA Program · David Eccles School of Business**
+
 A single-file, browser-based tool for modeling a job offer across four years and preparing to negotiate it. Built for graduate business students weighing and countering offers, but usable by anyone.
 
 Everything runs locally in the browser. No account, no server, no data leaves the page.
@@ -9,7 +11,10 @@ Everything runs locally in the browser. No account, no server, no data leaves th
 ---
 
 ## Live demo
-'https://coryjburk.github.io/comp_calculator/'
+
+`https://coryjburk.github.io/<REPO-NAME>/comp-planner.html`
+
+> Replace `<REPO-NAME>` with your repository name after enabling GitHub Pages, and confirm the `coryjburk` username and final URL before sharing.
 
 ---
 
