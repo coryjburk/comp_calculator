@@ -12,9 +12,7 @@ Everything runs locally in the browser. No account, no server, no data leaves th
 
 ## Live demo
 
-`https://coryjburk.github.io/<REPO-NAME>/comp-planner.html`
-
-> Replace `<REPO-NAME>` with your repository name after enabling GitHub Pages, and confirm the `coryjburk` username and final URL before sharing.
+'https://coryjburk.github.io/comp_calculator/'
 
 ---
 
