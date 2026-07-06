@@ -12,7 +12,7 @@ Everything runs locally in the browser. No account, no server, no data leaves th
 
 ## Live demo
 
-'https://coryjburk.github.io/comp_calculator/'
+**[Compensation Calculator](https://coryjburk.github.io/comp_calculator/)**
 
 ---
 
